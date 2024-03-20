@@ -1,4 +1,4 @@
-# xy_console
+# xy_string
 
 - zh_CN [简体中文](README_zh_CN.md)
 - zh_TW [繁体中文](README_zh_TW.md)
