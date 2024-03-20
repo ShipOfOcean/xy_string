@@ -9,26 +9,36 @@ Easy Python console tool wrappers
 
 ## Install
 
-```
-pip install xy_console
+```bash
+pip install xy_string
 ```
 
 ## Start
 
-```
-from xy_console.utils import *
-# 普通打印
-printt("hello world")
-# 打印成功
-print_s("hello world")
-# 打印执行
-print_exe("hello world")
-# 打印警告(warning)
-print_w("hello world")
-# 打印运行(running)
-print_r("hello world")
-# 打印运行(error)
-print_e("hello world")
+```python
+from xy_string.utils import is_empty_string, empty_string, contains_zh
+
+is_empty_string("")
+# true
+
+is_empty_string("empty")
+# false
+
+empty_string("empty")
+# empty
+
+empty_string(None, default="empty")
+# empty
+
+empty_string(None)
+# None
+
+contains_zh("中文")
+# True
+
+contains_zh("Chinese")
+# False
+
 ```
 
 ## Donate
