@@ -5,7 +5,7 @@
 - en [English](README_en.md)
 
 # Description
-Easy Python console tool wrappers
+String tool.
 
 ## Install
 

@@ -5,7 +5,7 @@
 - en [English](README_en.md)
 
 # 说明
-简单Python控制台输入输出工具封装.
+字串工具.
 
 ## 安装
 ```bash
