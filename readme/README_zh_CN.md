@@ -7,6 +7,8 @@
 # 说明
 字符串工具.
 
+<a href="https://github.com/ShipOfOcean/xy_string.git" target="_blank">Github地址</a>
+
 ## 安装
 
 ```bash

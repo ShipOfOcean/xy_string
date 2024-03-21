@@ -7,6 +7,8 @@
 # Description
 String tool.
 
+<a href="https://github.com/ShipOfOcean/xy_string.git" target="_blank">Github</a>
+
 ## Install
 
 ```bash

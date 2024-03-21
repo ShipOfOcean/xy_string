@@ -7,7 +7,10 @@
 # 说明
 字串工具.
 
+<a href="https://github.com/ShipOfOcean/xy_string.git" target="_blank">Github位址</a>
+
 ## 安装
+
 ```bash
 pip install xy_string
 ```
